@@ -1,0 +1,11 @@
+payload:
+  # Router managed 路由器管理域名
+  - DOMAIN,instant.arubanetworks.com
+  - DOMAIN,setmeup.arubanetworks.com
+  - DOMAIN,router.asus.com
+  - DOMAIN,www.asusrouter.com
+  - DOMAIN-SUFFIX,hiwifi.com
+  - DOMAIN-SUFFIX,leike.cc
+  - DOMAIN-SUFFIX,miwifi.com
+  - DOMAIN-SUFFIX,my.router
+  - DOMAIN-SUFFIX,p.to
